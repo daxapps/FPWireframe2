@@ -39,6 +39,14 @@ section:nth-child(even) {
   background-color: #ddd;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: left;
+}
+
 p {
   margin: 0 auto;
   max-width: 650px;
